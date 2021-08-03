@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>Spice Inspector</name>
+  <author>Brandin Arsenault</author>
+  <website>https://github.com/Brandin/userspice-spice-inspector</website>
+  <version>1.0.0</version>
+  <release>August 2, 2021</release>
+  <tested>5.3.4</tested>
+  <description>This plugin will inspect your installation for extra files in the users/ directory and provide a list of additional files in comparison to the UserSpice GitHub Repo.</description>
+  <button></button>
+</plugin>
