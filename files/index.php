@@ -3,7 +3,7 @@
 require_once '../../../../users/init.php';
 require_once $abs_us_root.$us_url_root.'users/includes/template/prep.php';
 
-if (!pluginActive('spicechecker')) {
+if (!pluginActive('spiceinspector')) {
     Redirect::to("{$us_url_root}users/admin.php?view=plugins&err=Plugin is not activated");
     exit();
 }

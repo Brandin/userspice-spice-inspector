@@ -1,3 +1,3 @@
 <?php
 
-Redirect::to("{$us_url_root}usersc/plugins/spicechecker/files/");
+Redirect::to("{$us_url_root}usersc/plugins/spiceinspector/files/");
